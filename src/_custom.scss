@@ -1,0 +1,26 @@
+// Navigation styles
+.navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.navbar-brand {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #000;
+}
+
+.nav-link {
+    color: #666;
+    padding: 0.5rem 1rem;
+    
+    &:hover {
+        color: #000;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .navbar-nav {
+        margin-top: 1rem;
+    }
+}
