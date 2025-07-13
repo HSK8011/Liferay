@@ -1,0 +1,9 @@
+{
+  "LiferayTheme": {
+    "appServerPath": "D:/Project/runtime/liferay-portal/tomcat",
+    "deployPath": "D:/Project/runtime/liferay-portal/deploy",
+    "deployed": true,
+    "deploymentStrategy": "LocalAppServer",
+    "url": "http://localhost:8080"
+  }
+}
